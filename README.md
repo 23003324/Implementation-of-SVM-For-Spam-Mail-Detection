@@ -64,12 +64,16 @@ accuracy
 ```
 
 ## Output:
+### Reading a dataset
 ![Screenshot 2025-05-24 190322](https://github.com/user-attachments/assets/cdb19ba8-653e-4ee3-b308-5a09640e8c99)
 
-
+### data.head()
 ![Screenshot 2025-05-24 190330](https://github.com/user-attachments/assets/b8bcc992-4b88-45a6-bd7a-dc341952e7b3)
+### data.info()
 ![Screenshot 2025-05-24 190337](https://github.com/user-attachments/assets/9ef0273d-4396-4632-aaa4-c7823f88d0e3)
+### data.isnull.sum()
 ![Screenshot 2025-05-24 190352](https://github.com/user-attachments/assets/dd0b4beb-b600-45c0-b3df-2f58627eb017)
+### Calculating accuracy:
 ![Screenshot 2025-05-24 190403](https://github.com/user-attachments/assets/839ceef9-e91e-4ad3-8b39-0c8bc891a480)
 
 
