@@ -18,15 +18,15 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 5.Assign the label column (v1) to variable x and the message text column (v2) to variable y.
 
-Split the dataset into training and testing sets using an 80-20 split with train_test_split().
+6.Split the dataset into training and testing sets using an 80-20 split with train_test_split().
 
-Convert the text data into numerical format using CountVectorizer to prepare for model training.
+7.Convert the text data into numerical format using CountVectorizer to prepare for model training.
 
-Initialize the Support Vector Machine classifier (SVC) and train it on the vectorized training data.
+8.Initialize the Support Vector Machine classifier (SVC) and train it on the vectorized training data.
 
-Predict the labels of the test set using the trained SVM model.
+9.Predict the labels of the test set using the trained SVM model.
 
-Evaluate the model’s performance by calculating and printing the accuracy score using accuracy_score().
+10.Evaluate the model’s performance by calculating and printing the accuracy score using accuracy_score().
 
 ## Program:
 ```
